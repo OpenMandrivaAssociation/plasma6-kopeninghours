@@ -15,7 +15,8 @@ BuildRequires:	doxygen
 BuildRequires:	boost-devel
 BuildRequires:	cmake(KF6Holidays)
 BuildRequires:	cmake(KF6I18n)
-BuildRequires:	cmake(Qt6Core) >= 6.14
+BuildRequires:	cmake(Qt6)
+BuildRequires:	cmake(Qt6Core)
 BuildRequires:	cmake(Qt6Qml)
 BuildRequires:	cmake(Qt6Test)
 BuildRequires:	pkgconfig(python)
