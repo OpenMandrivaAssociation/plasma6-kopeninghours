@@ -9,6 +9,7 @@ License:	LGPLv2+
 URL:		https://www.kde.org
 Source0:	http://download.kde.org/%{stable}/release-service/%{version}/src/kopeninghours-%{version}.tar.xz
 BuildRequires:	cmake(ECM)
+BuildRequires:	gettext
 BuildRequires:	bison
 BuildRequires:	flex
 BuildRequires:	doxygen
