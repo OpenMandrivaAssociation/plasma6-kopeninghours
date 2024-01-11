@@ -2,7 +2,7 @@
 
 Summary:	OSM opening hours expression parser and evaluator
 Name:		plasma6-kopeninghours
-Version:	24.01.85
+Version:	24.01.90
 Release:	1
 Group:		Graphical desktop/KDE
 License:	LGPLv2+
